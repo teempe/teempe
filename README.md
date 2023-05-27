@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+**codewars** [@teempe](https://www.codewars.com/users/teempe)
+
+[![](https://www.codewars.com/users/teempe/badges/small)](https://www.codewars.com/users/teempe)
+
+**Frontend Mentor** [@teempe](https://www.frontendmentor.io/profile/teempe)
+
+Collection of my solutions can be found in [this](https://github.com/teempe/frontend-mentor-challenges) GitHub repository.
+
+**Freecodecamp** [@tomaszpe](https://www.freecodecamp.org/tomaszpe)
+
 <!--
 **teempe/teempe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
