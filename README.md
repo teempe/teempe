@@ -6,9 +6,9 @@
 
 **Frontend Mentor** [@teempe](https://www.frontendmentor.io/profile/teempe)
 
-Collection of my solutions can be found in [this](https://github.com/teempe/frontend-mentor-challenges) GitHub repository.
+Collection of my solutions submitted at Frontend Mentor can be found in [this](https://github.com/teempe/frontend-mentor-challenges) GitHub repository.
 
-**Freecodecamp** [@tomaszpe](https://www.freecodecamp.org/tomaszpe)
+**freeCodeCamp** [@tomaszpe](https://www.freecodecamp.org/tomaszpe)
 
 <!--
 **teempe/teempe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
