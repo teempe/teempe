@@ -6,7 +6,7 @@
 
 **Frontend Mentor** [@teempe](https://www.frontendmentor.io/profile/teempe)
 
-Collection of my solutions submitted at Frontend Mentor can be found in [this](https://github.com/teempe/frontend-mentor-challenges) GitHub repository.
+Collection of my solutions submitted at Frontend Mentor can be found in [this GitHub repository](https://github.com/teempe/frontend-mentor-challenges).
 
 **freeCodeCamp** [@tomaszpe](https://www.freecodecamp.org/tomaszpe)
 
