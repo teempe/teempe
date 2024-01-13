@@ -10,7 +10,6 @@
   <img alt="javascript" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;            
   <img alt="python" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;
   <img alt="git" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
-  <img alt="github" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp;
   <img alt="postgresql" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp;
   <img alt="linux" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;
   <img alt="vscode" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;
@@ -36,6 +35,6 @@ Collection of my solutions submitted at Frontend Mentor can be found in [this Gi
 
 **codewars** [@teempe](https://www.codewars.com/users/teempe)
 
-[![](https://www.codewars.com/users/teempe/badges/small)](https://www.codewars.com/users/teempe)
+[![](https://www.codewars.com/users/teempe/badges/large)](https://www.codewars.com/users/teempe)
 
 **freeCodeCamp** [@tomaszpe](https://www.freecodecamp.org/tomaszpe)
