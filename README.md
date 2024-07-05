@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* Self-taught developer with a passion for web development and exploring the capabilities of Python and advanced language models like ChatGPT
+* Self-taught developer with a passion for web development
 * Constantly learning and growing my skill set
 
 <br />
@@ -17,6 +17,7 @@
   <img alt="postgresql" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp;
   <img alt="linux" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;
   <img alt="vscode" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;
+  <img alt="figma" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&nbsp;
 </div>
 
 #### Area of interest (currently/future learning)
@@ -26,7 +27,6 @@
   <img alt="nodejs" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
   <img alt="docker" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;
   <img alt="d3js" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-plain.svg" />&nbsp;
-  <img alt="figma" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&nbsp;
 </div>
 
 <br />
