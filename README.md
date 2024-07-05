@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* Self-taught developer with a passion for web development
+* Self-taught developer
 * Constantly learning and growing my skill set
 
 <br />
