@@ -1,48 +1,65 @@
-### Hi there 👋
+<h1 align="center">Hi :smiley:, I'm Tomasz</h1>
+<h4 align="center">Self taught developer</h4>
 
-* Self-taught developer
-* Constantly learning and growing my skill set
-
-<br />
-
-### Languages and Tools
+<h3>Languages and Tools:</h3>
 <div>
-  <img alt="html" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
-  <img alt="css" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;
-  <img alt="sass" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />&nbsp;
-  <img alt="javascript" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
-  <img alt="npm" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />&nbsp;
-  <img alt="python" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;
-  <img alt="git" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
-  <img alt="linux" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;
-  <img alt="vscode" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;
-  <img alt="figma" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&nbsp;
-  <img alt="postgresql" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp;
-  <img alt="mysql" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />&nbsp;
-  <img alt="sqlite" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />&nbsp;      
-  <img alt="mongodb" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />&nbsp;             
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" height="30"/></a>&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="30"/></a>&nbsp;
+  <a href="https://www.iso.org/standard/76583.html" target="_blank"><img src="https://img.shields.io/badge/SQL-%23C925D1?style=for-the-badge&logo=amazondocumentdb&logoColor=white" alt="SQL" height="30"/></a>&nbsp;
 </div>
 
-#### Area of interest (currently/future learning)
 <div>
-  <img alt="typescript" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;
-  <img alt="react" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;
-  <img alt="nodejs" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
-  <img alt="docker" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;
-  <img alt="d3js" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-plain.svg" />&nbsp;
-  <img alt="sqldeveloper" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />&nbsp; 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="30"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="30"/></a>&nbsp;
+  <a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" height="30"/></a>&nbsp;
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="30"/></a>&nbsp;
 </div>
 
-<br />
+<div>
+  <a href="https://nodejs.org/en" target="_blank"><img src="https://img.shields.io/badge/node-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" height="30"/></a>&nbsp;
+  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" height="30"/></a>&nbsp;
+</div>
 
-### Where to find me
+<div>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30"/></a>&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgeSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgeSQL" height="30"/></a>&nbsp;
+  <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" height="30"/></a>&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="30"/></a>&nbsp;
+</div>
 
-**Frontend Mentor** [@teempe](https://www.frontendmentor.io/profile/teempe)
+<div>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="30"/></a>&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-blue?style=for-the-badge&logoColor=black" alt="Visual Studio Code" height="30"/></a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30"/></a>&nbsp;
+  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GItHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/></a>&nbsp;
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="30"/></a>&nbsp;
+  <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/JupyterLab-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="JupyterLab" height="30"/></a>&nbsp;
+  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/FIgma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="30"/></a>&nbsp;
+  <a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-%23412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" height="30"/></a>&nbsp;
+</div>
+
+<h3>Currently learning:</h3>
+<div>
+  <p>All above... continuously... :grin:</p>
+  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="30"/></a>&nbsp;
+</div>
+
+<h3>Area of interest (plan to learn):</h3>
+<div>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/react_native-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" height="30"/></a>&nbsp;
+  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Nextjs" height="30"/></a>&nbsp;
+  <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank"><img src="https://img.shields.io/badge/PL%2FSQL-%23F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" height="30"/></a>&nbsp;
+</div>
+
+<h3>How to find me:</h3>
+
+**Email me** [tomaszpe@interia.com](mailto:tomaszpe@interia.com)
+
+**Frontend Mentor profile** [@teempe](https://www.frontendmentor.io/profile/teempe)
 
 Collection of my solutions submitted at Frontend Mentor can be found in [this GitHub repository](https://github.com/teempe/frontend-mentor-challenges).
 
-**codewars** [@teempe](https://www.codewars.com/users/teempe)
+**codewars profile** [@teempe](https://www.codewars.com/users/teempe)
 
 [![](https://www.codewars.com/users/teempe/badges/large)](https://www.codewars.com/users/teempe)
-
-**freeCodeCamp** [@tomaszpe](https://www.freecodecamp.org/tomaszpe)
